@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brickbird911
 - 👀 I’m interested in coding and video editing
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on Twitch streams
 - 📫 How to reach me isak.lundmark@outlook.com
 - 🇸🇪 I'm from Sweden
